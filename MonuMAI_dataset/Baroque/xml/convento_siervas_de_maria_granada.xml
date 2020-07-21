@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>convento_siervas_de_maria_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\convento_siervas_de_maria_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>468</ymin>
+			<xmax>738</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>190</ymin>
+			<xmax>938</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

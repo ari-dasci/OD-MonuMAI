@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monument</folder>
+	<filename>5d98c47b04a88.jpg</filename>
+	<path>/home/alcasla/Descargas/Monumai-images12.03.20/Monument/5d98c47b04a88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>1</ymin>
+			<xmax>898</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

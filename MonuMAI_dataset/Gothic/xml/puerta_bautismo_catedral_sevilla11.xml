@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MásG</folder>
+	<filename>puerta_bautismo_catedral_sevilla11.jpg</filename>
+	<path>D:\Descargas\Dataset\MásG\puerta_bautismo_catedral_sevilla11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>576</ymin>
+			<xmax>777</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

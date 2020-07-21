@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>puerta_compas_cartuja_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\04.renacentista\puerta_compas_cartuja_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>212</ymin>
+			<xmax>508</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

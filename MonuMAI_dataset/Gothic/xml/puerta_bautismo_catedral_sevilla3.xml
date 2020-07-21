@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>puerta_bautismo_catedral_sevilla3.jpg</filename>
+	<path>/media/alcasla/7E78AEA50B546E1F/Cultural Heritage/Dataset/03.gotico/puerta_bautismo_catedral_sevilla3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1066</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>721</ymin>
+			<xmax>782</xmax>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+</annotation>

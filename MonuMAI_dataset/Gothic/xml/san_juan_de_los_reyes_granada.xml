@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>san_juan_de_los_reyes_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\03.gotico\san_juan_de_los_reyes_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1685</width>
+		<height>1838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>499</ymin>
+			<xmax>1156</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>

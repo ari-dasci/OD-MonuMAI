@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>casa_museo_sefardi_granada2.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\casa_museo_sefardi_granada2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>46</ymin>
+			<xmax>505</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>131</ymin>
+			<xmax>492</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

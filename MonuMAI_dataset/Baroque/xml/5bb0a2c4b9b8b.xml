@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>5bb0a2c4b9b8b.jpg</filename>
+	<path>D:\Descargas\MonuMAI-images13.11.18\06.barroco\5bb0a2c4b9b8b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>496</ymin>
+			<xmax>674</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

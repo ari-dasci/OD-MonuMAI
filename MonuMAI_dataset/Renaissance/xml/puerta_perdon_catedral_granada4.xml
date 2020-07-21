@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>puerta_perdon_catedral_granada4.jpg</filename>
+	<path>D:\Descargas\Dataset\04.renacentista\puerta_perdon_catedral_granada4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>117</ymin>
+			<xmax>374</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

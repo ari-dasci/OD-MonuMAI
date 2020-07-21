@@ -1,0 +1,38 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>casa_arandas.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\04.renacentista\casa_arandas.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>874</ymin>
+			<xmax>1033</xmax>
+			<ymax>1175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>43</ymin>
+			<xmax>1057</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>iglesia_san_anton_granada2.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\iglesia_san_anton_granada2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1818</width>
+		<height>1664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>700</ymin>
+			<xmax>1282</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>1052</ymin>
+			<xmax>1116</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+</annotation>

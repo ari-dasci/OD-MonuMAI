@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monument</folder>
+	<filename>5c877f6795355.jpg</filename>
+	<path>/home/alcasla/Descargas/Monumai-images12.03.20/Monument/5c877f6795355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>335</ymin>
+			<xmax>702</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>5bc4b2d9006fc.jpg</filename>
+	<path>D:\Descargas\MonuMAI-images13.11.18\03.gotico\5bc4b2d9006fc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>294</ymin>
+			<xmax>268</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>santos_justo_pastor_granada8.jpg</filename>
+	<path>D:\Descargas\Dataset\06.barroco\santos_justo_pastor_granada8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1383</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>537</xmin>
+			<ymin>1091</ymin>
+			<xmax>833</xmax>
+			<ymax>1273</ymax>
+		</bndbox>
+	</object>
+</annotation>

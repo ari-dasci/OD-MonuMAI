@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>5be5b0ed738a7.jpg</filename>
+	<path>D:\Descargas\images13.11.18\06.barroco\5be5b0ed738a7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>783</ymin>
+			<xmax>638</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+</annotation>

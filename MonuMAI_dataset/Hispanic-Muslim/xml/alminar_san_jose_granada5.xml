@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>alminar_san_jose_granada5.jpg</filename>
+	<path>D:\Descargas\Dataset\01.musulman\alminar_san_jose_granada5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>356</ymin>
+			<xmax>310</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

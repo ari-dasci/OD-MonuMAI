@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>5bb28db47335d.jpg</filename>
+	<path>D:\Descargas\images13.11.18\04.renacentista\5bb28db47335d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>153</ymin>
+			<xmax>619</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

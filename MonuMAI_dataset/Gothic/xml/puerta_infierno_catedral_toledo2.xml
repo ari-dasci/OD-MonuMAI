@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>puerta_infierno_catedral_toledo2.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\puerta_infierno_catedral_toledo2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>654</width>
+		<height>891</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>18</ymin>
+			<xmax>626</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

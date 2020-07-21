@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Islamico</folder>
+	<filename>puerta_mihrab_mezquita_cordoba2.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Islamico\puerta_mihrab_mezquita_cordoba2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>844</width>
+		<height>688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>127</ymin>
+			<xmax>585</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gótico</folder>
+	<filename>iglesia_nuestra_señora_de_la_o_chipiona3.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Gótico\iglesia_nuestra_señora_de_la_o_chipiona3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>756</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>244</ymin>
+			<xmax>371</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

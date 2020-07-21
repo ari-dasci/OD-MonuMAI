@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>iglesia_sabiote5.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\iglesia_sabiote5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-trilobulado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>257</ymin>
+			<xmax>363</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

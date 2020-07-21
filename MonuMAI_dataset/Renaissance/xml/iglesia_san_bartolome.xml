@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>iglesia_san_bartolome.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\04.renacentista\iglesia_san_bartolome.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1690</width>
+		<height>1824</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>872</ymin>
+			<xmax>1123</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+</annotation>

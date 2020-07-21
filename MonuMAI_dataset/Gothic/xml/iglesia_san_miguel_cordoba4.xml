@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gótico</folder>
+	<filename>iglesia_san_miguel_cordoba4.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Gótico\iglesia_san_miguel_cordoba4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1012</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>626</ymin>
+			<xmax>440</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>

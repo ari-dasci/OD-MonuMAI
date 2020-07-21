@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.hispanomusulman</folder>
+	<filename>5bd753b475e1b.jpg</filename>
+	<path>D:\Descargas\MonuMAI-images13.11.18\01.hispanomusulman\5bd753b475e1b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>4</ymin>
+			<xmax>738</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>colegio_niñas_nobles_granada2.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\04.renacentista\colegio_niñas_nobles_granada2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1704</width>
+		<height>1524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>231</ymin>
+			<xmax>1231</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>339</ymin>
+			<xmax>1194</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>iglesia_santa_maría_del_pi_barcelona2.jpg</filename>
+	<path>D:\Descargas\AAampliación2AA\03.gotico\iglesia_santa_maría_del_pi_barcelona2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>610</ymin>
+			<xmax>790</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+</annotation>

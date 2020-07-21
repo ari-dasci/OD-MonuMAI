@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>puerta_monaita_granada2.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\01.musulman\puerta_monaita_granada2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>138</ymin>
+			<xmax>232</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

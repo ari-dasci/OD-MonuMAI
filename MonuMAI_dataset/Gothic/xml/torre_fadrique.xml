@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gótico</folder>
+	<filename>torre_fadrique.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Gótico\torre_fadrique.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>326</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>171</ymin>
+			<xmax>197</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

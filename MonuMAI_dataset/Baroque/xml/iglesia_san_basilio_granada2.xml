@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>iglesia_san_basilio_granada2.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\iglesia_san_basilio_granada2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>185</ymin>
+			<xmax>363</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>45</ymin>
+			<xmax>430</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

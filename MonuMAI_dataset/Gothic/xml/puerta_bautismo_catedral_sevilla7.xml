@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>puerta_bautismo_catedral_sevilla7.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\puerta_bautismo_catedral_sevilla7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>654</width>
+		<height>808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>198</ymin>
+			<xmax>433</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

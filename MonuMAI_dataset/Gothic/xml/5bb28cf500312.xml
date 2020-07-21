@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02.gotico</folder>
+	<filename>5bb28cf500312.jpg</filename>
+	<path>D:\Descargas\Dataset\02.gotico\5bb28cf500312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>1</ymin>
+			<xmax>754</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

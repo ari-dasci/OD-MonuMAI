@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>5bb79917b8e2f.jpg</filename>
+	<path>D:\Descargas\images13.11.18\04.renacentista\5bb79917b8e2f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>608</ymin>
+			<xmax>754</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

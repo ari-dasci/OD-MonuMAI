@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>5bddc20b3a228.jpg</filename>
+	<path>D:\Descargas\images13.11.18\06.barroco\5bddc20b3a228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>87</ymin>
+			<xmax>442</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

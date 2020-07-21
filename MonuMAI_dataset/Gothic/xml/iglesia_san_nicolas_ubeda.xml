@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>iglesia_san_nicolas_ubeda.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\iglesia_san_nicolas_ubeda.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>916</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>531</ymin>
+			<xmax>515</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

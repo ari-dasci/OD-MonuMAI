@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>palacio_jabalquinto_baeza9.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\palacio_jabalquinto_baeza9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>189</ymin>
+			<xmax>726</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

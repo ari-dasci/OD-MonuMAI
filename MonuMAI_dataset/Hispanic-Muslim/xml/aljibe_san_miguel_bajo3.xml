@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>aljibe_san_miguel_bajo3.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\01.musulman\aljibe_san_miguel_bajo3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1060</width>
+		<height>1438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>447</ymin>
+			<xmax>772</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

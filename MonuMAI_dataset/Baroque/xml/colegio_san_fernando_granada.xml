@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>colegio_san_fernando_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\colegio_san_fernando_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1752</width>
+		<height>1821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>659</ymin>
+			<xmax>1614</xmax>
+			<ymax>1025</ymax>
+		</bndbox>
+	</object>
+</annotation>

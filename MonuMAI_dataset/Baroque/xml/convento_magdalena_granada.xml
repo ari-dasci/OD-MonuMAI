@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>convento_magdalena_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\convento_magdalena_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1386</width>
+		<height>1847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>448</ymin>
+			<xmax>1056</xmax>
+			<ymax>1716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>61</ymin>
+			<xmax>1239</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

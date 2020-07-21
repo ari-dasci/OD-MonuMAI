@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>5be9a109254fb.jpg</filename>
+	<path>D:\Descargas\images13.11.18\03.gotico\5be9a109254fb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>72</ymin>
+			<xmax>557</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

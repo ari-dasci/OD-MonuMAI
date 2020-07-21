@@ -9,7 +9,7 @@ It is a monumental heritage image database that is public and rich in expert kno
 	<img width="90%" height="90%" src="/pictures/taxonomy.JPG">
 </p>
 
-The used images for building Monumai were selected so that the monument is centered, fill most of the image, and have high quality so the monument features can be observable. The images were selected from Internet and from smartphone cameras thanks to the Monumai app ([Android](https://play.google.com/store/apps/details?id=es.everywaretech.monumai) and [iOS](https://itunes.apple.com/es/app/monumai/id1397249529?mt=8) developed under a citizen science project.
+The used images for building Monumai were selected so that the monument is centered, fill most of the image, and have high quality so the monument features can be observable. The images were selected from Internet and from smartphone cameras thanks to the Monumai app ([Android](https://play.google.com/store/apps/details?id=es.everywaretech.monumai) and [iOS](https://itunes.apple.com/es/app/monumai/id1397249529?mt=8)) developed under a citizen science project.
 
 
 

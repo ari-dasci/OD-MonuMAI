@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>iglesia_san_juan_de_dios_granada4.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\iglesia_san_juan_de_dios_granada4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1460</width>
+		<height>1897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>712</ymin>
+			<xmax>1030</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>68</ymin>
+			<xmax>1271</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

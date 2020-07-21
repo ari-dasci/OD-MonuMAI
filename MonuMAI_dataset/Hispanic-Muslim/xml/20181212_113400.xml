@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.hispanomusulman</folder>
+	<filename>20181212_113400.jpg</filename>
+	<path>D:\Descargas\2018Dic-PaseoMatemáticoAlhambra\01.hispanomusulman\20181212_113400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>1244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>296</ymin>
+			<xmax>910</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>

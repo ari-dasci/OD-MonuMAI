@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>puerta_apostoles_catedra_valencia3.jpg</filename>
+	<path>D:\Descargas\AAampliación2AA\03.gotico\puerta_apostoles_catedra_valencia3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1042</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-apuntado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>456</ymin>
+			<xmax>595</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>

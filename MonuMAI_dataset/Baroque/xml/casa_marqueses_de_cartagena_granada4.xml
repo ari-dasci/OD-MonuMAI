@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>casa_marqueses_de_cartagena_granada4.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\casa_marqueses_de_cartagena_granada4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1821</width>
+		<height>1444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>431</ymin>
+			<xmax>1127</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton-partido</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>84</ymin>
+			<xmax>1321</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

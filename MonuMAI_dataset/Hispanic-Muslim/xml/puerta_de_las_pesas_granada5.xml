@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>puerta_de_las_pesas_granada5.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\01.musulman\puerta_de_las_pesas_granada5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>685</ymin>
+			<xmax>935</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+</annotation>

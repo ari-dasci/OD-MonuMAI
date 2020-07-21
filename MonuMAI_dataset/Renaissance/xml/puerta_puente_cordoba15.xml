@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>puerta_puente_cordoba15.jpg</filename>
+	<path>D:\Descargas\Dataset\04.renacentista\puerta_puente_cordoba15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>435</ymin>
+			<xmax>730</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

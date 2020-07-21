@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>casa_abrantes_granada4.jpg</filename>
+	<path>D:\Descargas\Dataset\03.gotico\casa_abrantes_granada4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>114</ymin>
+			<xmax>308</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

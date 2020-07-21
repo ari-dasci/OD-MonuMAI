@@ -1,0 +1,38 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>iglesia_salvador_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\04.renacentista\iglesia_salvador_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1606</width>
+		<height>1838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>694</ymin>
+			<xmax>1191</xmax>
+			<ymax>1772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>224</ymin>
+			<xmax>914</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

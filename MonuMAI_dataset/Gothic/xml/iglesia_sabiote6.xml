@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>iglesia_sabiote6.jpg</filename>
+	<path>/media/alcasla/7E78AEA50B546E1F/Cultural Heritage/Dataset/03.gotico/iglesia_sabiote6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-trilobulado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>277</ymin>
+			<xmax>324</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

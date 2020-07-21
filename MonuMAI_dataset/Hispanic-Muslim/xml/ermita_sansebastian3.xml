@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>ermita_sansebastian3.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\01.musulman\ermita_sansebastian3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>230</ymin>
+			<xmax>235</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

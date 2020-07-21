@@ -1,0 +1,26 @@
+<annotation>
+	<folder>02.gotico</folder>
+	<filename>basilica_santa_maria_arcos_frontera5.jpg</filename>
+	<path>D:\Descargas\Dataset\02.gotico\basilica_santa_maria_arcos_frontera5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1066</width>
+		<height>1002</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>571</ymin>
+			<xmax>868</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

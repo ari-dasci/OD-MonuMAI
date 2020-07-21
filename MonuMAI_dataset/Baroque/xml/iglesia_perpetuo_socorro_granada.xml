@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06.barroco</folder>
+	<filename>iglesia_perpetuo_socorro_granada.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\06.barroco\iglesia_perpetuo_socorro_granada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1829</width>
+		<height>1764</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-medio-punto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>1011</ymin>
+			<xmax>1105</xmax>
+			<ymax>1359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fronton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>282</ymin>
+			<xmax>1115</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04.renacentista</folder>
+	<filename>5bd96e97c779b.jpg</filename>
+	<path>D:\Descargas\MonuMAI-images13.11.18\04.renacentista\5bd96e97c779b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vano-adintelado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>421</ymin>
+			<xmax>640</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>01.musulman</folder>
+	<filename>corral_carbon_granada6.jpg</filename>
+	<path>/media/alcasla/7E78AEA50B546E1F/Cultural Heritage/Dataset/01.musulman/corral_carbon_granada6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>95</ymin>
+			<xmax>162</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arco-herradura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>96</ymin>
+			<xmax>219</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

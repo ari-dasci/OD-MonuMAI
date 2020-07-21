@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Barroco</folder>
+	<filename>san_juan_dios_antequera.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Barroco\san_juan_dios_antequera.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>662</width>
+		<height>543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fronton-curvo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>370</ymin>
+			<xmax>382</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

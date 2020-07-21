@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Renacentista</folder>
+	<filename>ayuntamiento_baeza8.jpg</filename>
+	<path>D:\Descargas\AAampliaciónAA\Renacentista\ayuntamiento_baeza8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>913</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>serliana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>106</ymin>
+			<xmax>885</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

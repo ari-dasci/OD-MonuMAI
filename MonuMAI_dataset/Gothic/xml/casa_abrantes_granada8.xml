@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03.gotico</folder>
+	<filename>casa_abrantes_granada8.jpg</filename>
+	<path>D:\Descargas\Ampliación Granada\03.gotico\casa_abrantes_granada8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1721</width>
+		<height>1735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arco-conopial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>306</ymin>
+			<xmax>1151</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>
