@@ -1,12 +1,12 @@
 # MonuMAI dataset
-<img align="left" width="50%" height="50%" src="/pictures/logo.jpg" title="MonuMAI logo">
+<img align="left" width="60%" height="60%" src="/pictures/logo.jpg" title="MonuMAI logo">
 
-[monumai.ugr.es](https://monumai.ugr.es/)
+[**monumai.ugr.es**](https://monumai.ugr.es/)
 
 It is a monumental heritage image database that is public and rich in expert knowledge. Monumai dataset was annotated by three experts using two types of annotations and is designed according to the defined monumental heritage taxonomy, for architectural styles classification and key elements detection tasks.
 
 <p align="center">
-	<img width="80%" height="80%" src="/pictures/taxonomy.JPG">
+	<img width="90%" height="90%" src="/pictures/taxonomy.JPG">
 </p>
 
 The used images for building Monumai were selected so that the monument is centered, fill most of the image, and have high quality so the monument features can be observable. The images were selected from Internet and from smartphone cameras thanks to the Monumai app ([Android](https://play.google.com/store/apps/details?id=es.everywaretech.monumai) and [iOS](https://itunes.apple.com/es/app/monumai/id1397249529?mt=8) developed under a citizen science project.
@@ -17,7 +17,7 @@ The used images for building Monumai were selected so that the monument is cente
 Monumai database contains 1.514 RGB images of monument facades of four architectural styles Hispanic-Muslim, Gothic, Renaissance, and Baroque. Where the used images for building Monumai were selected so that the monument is centered, fill most of the image, and have high quality so the monument features can be observable.
 
 <p align="center">
-	<img width="50%" height="50%" src="/pictures/styles.JPG">
+	<img width="75%" height="75%" src="/pictures/styles.JPG">
 </p>
 
 A summary of the characteristics of MonuMAI dataset is shown below.
